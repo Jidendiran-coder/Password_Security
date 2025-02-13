@@ -69,7 +69,7 @@ This project is licensed under the MIT License.
 a) When we Provde a WEAK password:
 ![image](https://github.com/user-attachments/assets/08d9a568-e7b0-48c3-af3f-1292cc43eb4a)
 
-b) When we provide a strong password:
+b) When we provide a STRONG password:
 ![image](https://github.com/user-attachments/assets/f6487224-6d30-409b-b5bd-80b9cf2c1a51)
 
 
