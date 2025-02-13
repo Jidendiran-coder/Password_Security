@@ -67,6 +67,8 @@ This project is licensed under the MIT License.
 
 ## 📸 Screenshots & Architecture Diagrams
 ![Password Strength Checker Screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/bad27f8a-20a9-418e-9ca5-f67a9557847f)
+
 
 ## 📅 Changelog
 - **v1.0** - Initial release with basic password validation.
