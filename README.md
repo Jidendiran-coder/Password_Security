@@ -4,17 +4,17 @@
 A simple Python script that evaluates the strength of a user-entered password based on predefined security criteria. The script checks for length, uppercase and lowercase letters, numbers, and special characters to ensure strong password security.
 
 ## 📖 Table of Contents
-1. [⚙️ Prerequisites](#prerequisites)
-2. [📥 Installation Instructions](#installation-instructions)
-3. [📝 Usage Instructions](#usage-instructions)
-4. [🔧 Configuration](#configuration)
-5. [🚀 CI/CD Pipeline Details](#cicd-pipeline-details)
-6. [🔒 Security Best Practices](#security-best-practices)
-7. [🐞 Troubleshooting](#troubleshooting)
-8. [🤝 Contribution Guidelines](#contribution-guidelines)
-9. [📜 License](#license)
-10. [📸 Screenshots & Architecture Diagrams](#screenshots--architecture-diagrams)
-11. [📅 Changelog](#changelog)
+1. [⚙️ Prerequisites](https://github.com/Jidendiran-coder/Password_Security?tab=readme-ov-file#%EF%B8%8F-prerequisites)
+2. [📥 Installation Instructions](https://github.com/Jidendiran-coder/Password_Security?tab=readme-ov-file#-installation-instructions)
+3. [📝 Usage Instructions](https://github.com/Jidendiran-coder/Password_Security?tab=readme-ov-file#-usage-instructions)
+4. [🔧 Configuration](https://github.com/Jidendiran-coder/Password_Security?tab=readme-ov-file#-configuration)
+5. [🚀 CI/CD Pipeline Details](https://github.com/Jidendiran-coder/Password_Security?tab=readme-ov-file#-cicd-pipeline-details)
+6. [🔒 Security Best Practices](https://github.com/Jidendiran-coder/Password_Security?tab=readme-ov-file#-security-best-practices)
+7. [🐞 Troubleshooting](https://github.com/Jidendiran-coder/Password_Security?tab=readme-ov-file#-troubleshooting)
+8. [🤝 Contribution Guidelines](https://github.com/Jidendiran-coder/Password_Security?tab=readme-ov-file#-contribution-guidelines)
+9. [📜 License](https://github.com/Jidendiran-coder/Password_Security?tab=readme-ov-file#-license)
+10. [📸 Screenshots & Architecture Diagrams](https://github.com/Jidendiran-coder/Password_Security?tab=readme-ov-file#-screenshots--architecture-diagrams)
+11. [📅 Changelog](https://github.com/Jidendiran-coder/Password_Security?tab=readme-ov-file#-changelog)
 
 ## ⚙️ Prerequisites
 - 🐍 Python 3.x installed on your system
