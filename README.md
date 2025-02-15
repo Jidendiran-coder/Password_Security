@@ -23,11 +23,11 @@ A simple Python script that evaluates the strength of a user-entered password ba
 ## 📥 Installation Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/password-strength-checker.git
+   git clone https://github.com/Jidendiran-coder/Password_Security_Python.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd password-strength-checker
+   cd Password_Security_Python
    ```
 3. Install dependencies:
    ```bash
@@ -37,7 +37,7 @@ A simple Python script that evaluates the strength of a user-entered password ba
 ## 📝 Usage Instructions
 1. Run the script:
    ```bash
-   python password_checker.py
+   python Password_Security_Test.py
    ```
 2. Enter a password when prompted. The script will evaluate its strength and display feedback.
 
